@@ -1,4 +1,4 @@
-setwd("/Users/moser297/Documents/Julia_work/NibabiesPaper") #directory with data tables
+setwd("/mypath/NibabiesPaper") #directory with data tables
 library(tidyverse)
 library(NHANES)
 library(DescTools)
